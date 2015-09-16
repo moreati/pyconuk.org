@@ -1,0 +1,1413 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20150916T113005Z-74576@martha
+DTSTART:20150918T080000
+DTEND:20150918T093000
+LOCATION:Cafeteria
+SUMMARY:Registration / Breakfast
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-2439@martha
+DTSTART:20150918T093000
+DTEND:20150918T103000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Opening Plenary
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-16263@martha
+DTSTART:20150918T103000
+DTEND:20150918T113000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Keynote: Van Lindberg\, PSF Chair
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-92591@martha
+DTSTART:20150918T103000
+DTEND:20150918T120000
+DESCRIPTION:https://www.pyconuk.org/djangogirls/
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:DjangoGirls
+URL:https://www.pyconuk.org/djangogirls/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-92071@martha
+DTSTART:20150918T103000
+DTEND:20150918T123000
+DESCRIPTION:https://www.pyconuk.org/transcode/
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:Trans*Code
+URL:https://www.pyconuk.org/transcode/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-32101@martha
+DTSTART:20150918T103000
+DTEND:20150918T112000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Minecraft in Education
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-92054@martha
+DTSTART:20150918T103000
+DTEND:20150918T112000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:First steps in Python
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-52226@martha
+DTSTART:20150918T112000
+DTEND:20150918T121000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Skycademy
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-81168@martha
+DTSTART:20150918T112000
+DTEND:20150918T121000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:PyGame Zero
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-66138@martha
+DTSTART:20150918T113000
+DTEND:20150918T120000
+DESCRIPTION:https://www.pyconuk.org/talks/pythons-infamous-gil/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Python's Infamous GIL (talk by Larry Hastings)
+URL:https://www.pyconuk.org/talks/pythons-infamous-gil/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-19095@martha
+DTSTART:20150918T113000
+DTEND:20150918T120000
+DESCRIPTION:https://www.pyconuk.org/talks/a-deep-dive-into-python-import-h
+ ooks/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:A deep dive into python import hooks (talk by Louis Taylor)
+URL:https://www.pyconuk.org/talks/a-deep-dive-into-python-import-hooks/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-8547@martha
+DTSTART:20150918T113000
+DTEND:20150918T130000
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Introduction to Python
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-82738@martha
+DTSTART:20150918T113000
+DTEND:20150918T120000
+DESCRIPTION:https://www.pyconuk.org/talks/real-time-data-django-fun-growth
+ -profit/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Real-Time Data + Django = Fun\,Growth + Profit (talk by Rachel Wil
+ lmer)
+URL:https://www.pyconuk.org/talks/real-time-data-django-fun-growth-profit/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-13536@martha
+DTSTART:20150918T120000
+DTEND:20150918T130000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:PGP key signing party
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-16683@martha
+DTSTART:20150918T120000
+DTEND:20150918T130000
+DESCRIPTION:https://www.pyconuk.org/events/career-clinic/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Career Clinic
+URL:https://www.pyconuk.org/events/career-clinic/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-45773@martha
+DTSTART:20150918T120000
+DTEND:20150918T130000
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Lunchtime Event
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-64280@martha
+DTSTART:20150918T120000
+DTEND:20150918T123000
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:DjangoGirls Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-44298@martha
+DTSTART:20150918T121000
+DTEND:20150918T130000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Your code in space with AstroPi
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-28115@martha
+DTSTART:20150918T121000
+DTEND:20150918T130000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Code Club
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-68353@martha
+DTSTART:20150918T123000
+DTEND:20150918T180000
+DESCRIPTION:https://www.pyconuk.org/djangogirls/
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:DjangoGirls
+URL:https://www.pyconuk.org/djangogirls/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-8429@martha
+DTSTART:20150918T123000
+DTEND:20150918T130000
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:Trans*Code Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-54010@martha
+DTSTART:20150918T130000
+DTEND:20150918T140000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Lunch time Event Spare Slot
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-19838@martha
+DTSTART:20150918T130000
+DTEND:20150918T140000
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Lunchtime Event Spare Slot
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-29739@martha
+DTSTART:20150918T130000
+DTEND:20150918T140000
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Workshop Room Setup)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-81324@martha
+DTSTART:20150918T130000
+DTEND:20150918T140000
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Lunchtime Event
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-76943@martha
+DTSTART:20150918T130000
+DTEND:20150918T180000
+DESCRIPTION:https://www.pyconuk.org/transcode/
+LOCATION:Training and Hackathon (Simulation Centre)
+SUMMARY:Trans*Code
+URL:https://www.pyconuk.org/transcode/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-90532@martha
+DTSTART:20150918T130000
+DTEND:20150918T140000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Education Track Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-49667@martha
+DTSTART:20150918T140000
+DTEND:20150918T150000
+DESCRIPTION:https://www.pyconuk.org/talks/all-i-really-want-is-power/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Keynote: Daniele Procida All I really want is power (talk by Danie
+ le Procida)
+URL:https://www.pyconuk.org/talks/all-i-really-want-is-power/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-63531@martha
+DTSTART:20150918T140000
+DTEND:20150918T160000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:All hands resource generation un-conference\, adopt a developer
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-78346@martha
+DTSTART:20150918T150000
+DTEND:20150918T153000
+DESCRIPTION:https://www.pyconuk.org/talks/analyzing-python-with-pylint/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Analyzing Python with Pylint (talk by Claudiu Popa)
+URL:https://www.pyconuk.org/talks/analyzing-python-with-pylint/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-65909@martha
+DTSTART:20150918T150000
+DTEND:20150918T153000
+DESCRIPTION:https://www.pyconuk.org/talks/choosing-a-web-framework-for-pyt
+ hon-3-and-asyncio/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Choosing a web framework for Python 3 and asyncio (talk by Dan Cla
+ rk)
+URL:https://www.pyconuk.org/talks/choosing-a-web-framework-for-python-3-an
+ d-asyncio/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-4745@martha
+DTSTART:20150918T150000
+DTEND:20150918T183000
+DESCRIPTION:https://www.pyconuk.org/workshops/django-security/
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Django Security Workshop (workshop by Peter Inglesby)
+URL:https://www.pyconuk.org/workshops/django-security/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-38162@martha
+DTSTART:20150918T150000
+DTEND:20150918T153000
+DESCRIPTION:https://www.pyconuk.org/talks/deploy-flask-application-single-
+ step/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Deploy a flask application in a single step (talk by Colin Moore-H
+ ill)
+URL:https://www.pyconuk.org/talks/deploy-flask-application-single-step/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-89037@martha
+DTSTART:20150918T153000
+DTEND:20150918T160000
+DESCRIPTION:https://www.pyconuk.org/talks/understanding-pypy/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Understanding PyPy (talk by Francisco Fernández Castaño)
+URL:https://www.pyconuk.org/talks/understanding-pypy/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-57708@martha
+DTSTART:20150918T153000
+DTEND:20150918T160000
+DESCRIPTION:https://www.pyconuk.org/talks/leadership-of-technical-teams/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Leadership of Technical Teams (talk by Owen Campbell)
+URL:https://www.pyconuk.org/talks/leadership-of-technical-teams/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-55788@martha
+DTSTART:20150918T153000
+DTEND:20150918T160000
+DESCRIPTION:https://www.pyconuk.org/talks/gabbi-declarative-http-testing/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Gabbi - Declarative HTTP Testing (talk by Chris)
+URL:https://www.pyconuk.org/talks/gabbi-declarative-http-testing/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-40024@martha
+DTSTART:20150918T160000
+DTEND:20150918T163000
+DESCRIPTION:https://www.pyconuk.org/talks/pypy-for-mediocre-programmers/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:PyPy for mediocre programmers (talk by Ronan Lamy)
+URL:https://www.pyconuk.org/talks/pypy-for-mediocre-programmers/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-49739@martha
+DTSTART:20150918T160000
+DTEND:20150918T163000
+DESCRIPTION:https://www.pyconuk.org/talks/elephant-taming-for-snake-lovers
+ /
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Elephant taming for snake lovers (talk by Wes Mason)
+URL:https://www.pyconuk.org/talks/elephant-taming-for-snake-lovers/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-54844@martha
+DTSTART:20150918T160000
+DTEND:20150918T163000
+DESCRIPTION:https://www.pyconuk.org/talks/making-code-py23-compatible-usin
+ g-python-future/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Making code py2/3 compatible using python-future (talk by Jørn Lo
+ max)
+URL:https://www.pyconuk.org/talks/making-code-py23-compatible-using-python
+ -future/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-73777@martha
+DTSTART:20150918T160000
+DTEND:20150918T180000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:TeachMeet
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-10057@martha
+DTSTART:20150918T163000
+DTEND:20150918T170000
+DESCRIPTION:https://www.pyconuk.org/talks/making-python-computations-fast/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Making Python Computations Fast (talk by Russel Winder)
+URL:https://www.pyconuk.org/talks/making-python-computations-fast/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-96987@martha
+DTSTART:20150918T163000
+DTEND:20150918T170000
+DESCRIPTION:https://www.pyconuk.org/talks/templating-past-present-and-futu
+ re/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Templating - Past\, Present and Future (talk by Ed Singleton)
+URL:https://www.pyconuk.org/talks/templating-past-present-and-future/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-91651@martha
+DTSTART:20150918T163000
+DTEND:20150918T170000
+DESCRIPTION:https://www.pyconuk.org/talks/instrument-your-python-app-with-
+ metric-collection/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Instrument Your Python App with Metric Collection (talk by Marek M
+ roz)
+URL:https://www.pyconuk.org/talks/instrument-your-python-app-with-metric-c
+ ollection/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-22698@martha
+DTSTART:20150918T170000
+DTEND:20150918T173000
+DESCRIPTION:https://www.pyconuk.org/talks/document-all-the-things/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Document all the things (talk by Kristian Glass)
+URL:https://www.pyconuk.org/talks/document-all-the-things/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-58517@martha
+DTSTART:20150918T170000
+DTEND:20150918T173000
+DESCRIPTION:https://www.pyconuk.org/talks/python-for-mobile-games-on-ios-a
+ nd-android/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Python for mobile games on iOS and Android (talk by Safe Hammad & 
+ Fiona Burrows)
+URL:https://www.pyconuk.org/talks/python-for-mobile-games-on-ios-and-andro
+ id/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-63865@martha
+DTSTART:20150918T170000
+DTEND:20150918T173000
+DESCRIPTION:https://www.pyconuk.org/talks/designing-developing-and-deployi
+ ng-resilient-data-pipelines-using-python-and-docker-compose/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Resilient data pipelines using Docker-Compose (talk by Heeren Shar
+ ma)
+URL:https://www.pyconuk.org/talks/designing-developing-and-deploying-resil
+ ient-data-pipelines-using-python-and-docker-compose/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-46363@martha
+DTSTART:20150918T173000
+DTEND:20150918T180000
+DESCRIPTION:https://www.pyconuk.org/talks/python-on-raspberry-pi/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Python Projects on the Raspberry Pi (talk by Ben Nuttall)
+URL:https://www.pyconuk.org/talks/python-on-raspberry-pi/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-83957@martha
+DTSTART:20150918T173000
+DTEND:20150918T180000
+DESCRIPTION:https://www.pyconuk.org/talks/testing-async-a-journey/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Testing and Async - a journey (talk by James Broadhead)
+URL:https://www.pyconuk.org/talks/testing-async-a-journey/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-43263@martha
+DTSTART:20150918T173000
+DTEND:20150918T180000
+DESCRIPTION:https://www.pyconuk.org/talks/accelerate-and-scale-your-tests-
+ with-nodepool/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Accelerate and scale your tests with nodepool (talk by Yolanda Rob
+ la Mota)
+URL:https://www.pyconuk.org/talks/accelerate-and-scale-your-tests-with-nod
+ epool/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-62832@martha
+DTSTART:20150918T180000
+DTEND:20150918T183000
+DESCRIPTION:https://www.pyconuk.org/talks/using-logical-flaws-to-steal-and
+ -modify-business-critical-data/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Using logical flaws to steal and modify business critical data (ta
+ lk by Frans Rosén)
+URL:https://www.pyconuk.org/talks/using-logical-flaws-to-steal-and-modify-
+ business-critical-data/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-68740@martha
+DTSTART:20150918T180000
+DTEND:20150918T183000
+DESCRIPTION:https://www.pyconuk.org/talks/enabling-the-optimisation-of-pyt
+ hon/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Enabling the Optimisation of Python (talk by Stefan Popa)
+URL:https://www.pyconuk.org/talks/enabling-the-optimisation-of-python/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-75214@martha
+DTSTART:20150918T180000
+DTEND:20150918T183000
+DESCRIPTION:https://www.pyconuk.org/talks/trade-management-in-python-a-sto
+ ry-of-throughput/
+LOCATION:LaterPay Room (CC2.1)
+SUMMARY:Trade management in Python - a story of throughput (talk by Cipria
+ n Miclaus)
+URL:https://www.pyconuk.org/talks/trade-management-in-python-a-story-of-th
+ roughput/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-61204@martha
+DTSTART:20150918T180000
+DTEND:20150918T193000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#diversity
+LOCATION:Bistro
+SUMMARY:PyCon UK Diversity Reception
+URL:https://www.pyconuk.org/abstracts/#diversity
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-98301@martha
+DTSTART:20150918T183000
+DTEND:20150918T193000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Day Ends
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-3149@martha
+DTSTART:20150918T193000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#social
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The Friday Night Charity Social in memory of John Pinner
+URL:https://www.pyconuk.org/abstracts/#social
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-51205@martha
+DTSTART:20150919T080000
+DTEND:20150919T090000
+LOCATION:Cafeteria
+SUMMARY:Registration / Breakfast
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-19573@martha
+DTSTART:20150919T090000
+DTEND:20150919T091500
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Opening Plenary
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-48126@martha
+DTSTART:20150919T091500
+DTEND:20150919T100000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Keynote: Dr Simon Sheridan Landing on a comet: From planning to re
+ ality
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-68377@martha
+DTSTART:20150919T091500
+DTEND:20150919T093000
+DESCRIPTION:https://www.pyconuk.org/education/#kids
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:PyKids UK Setup
+URL:https://www.pyconuk.org/education/#kids
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-38147@martha
+DTSTART:20150919T093000
+DTEND:20150919T100000
+DESCRIPTION:https://www.pyconuk.org/education/#kids
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:PyKids UK Opening
+URL:https://www.pyconuk.org/education/#kids
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-61678@martha
+DTSTART:20150919T100000
+DTEND:20150919T103000
+DESCRIPTION:https://www.pyconuk.org/talks/json-and-the-daughters-of-pelias
+ /
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:JSON and the daughters of Pelias (talk by Zeth)
+URL:https://www.pyconuk.org/talks/json-and-the-daughters-of-pelias/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-61893@martha
+DTSTART:20150919T100000
+DTEND:20150919T103000
+DESCRIPTION:https://www.pyconuk.org/talks/building-saas-with-django-and-po
+ lla/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Building SAAs with django and polla (talk by Emmanuelle Delescolle
+ )
+URL:https://www.pyconuk.org/talks/building-saas-with-django-and-polla/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-16305@martha
+DTSTART:20150919T100000
+DTEND:20150919T130000
+DESCRIPTION:https://www.pyconuk.org/workshops/fifty-shades-of-disaster-hum
+ an-error-and-complex-systems/
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Fifty Shades of Disaster - Human Error and Complex Systems (worksh
+ op by Paul Ross)
+URL:https://www.pyconuk.org/workshops/fifty-shades-of-disaster-human-error
+ -and-complex-systems/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-21704@martha
+DTSTART:20150919T100000
+DTEND:20150919T103000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space for BoFs and discussion
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-75445@martha
+DTSTART:20150919T100000
+DTEND:20150919T103000
+DESCRIPTION:https://www.pyconuk.org/talks/forming-a-research-community/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Forming a PyCon UK research community (talk by Sarah Mount\, Unive
+ rsity of Wolverhampton)
+URL:https://www.pyconuk.org/talks/forming-a-research-community/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-20867@martha
+DTSTART:20150919T100000
+DTEND:20150919T111500
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Group Activities: Minecraft Code Club Your code in space Internet 
+ of Toys
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-1765@martha
+DTSTART:20150919T103000
+DTEND:20150919T110000
+DESCRIPTION:https://www.pyconuk.org/talks/managing-mocks-the-how-why-and-w
+ hen-of-mocking-in-python/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Managing mocks - the how why and when of mocking in Python (talk b
+ y Helen Sherwood-Taylor)
+URL:https://www.pyconuk.org/talks/managing-mocks-the-how-why-and-when-of-m
+ ocking-in-python/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-80610@martha
+DTSTART:20150919T103000
+DTEND:20150919T110000
+DESCRIPTION:https://www.pyconuk.org/talks/image-recognition-via-template-m
+ atching
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Template matching - howto
+URL:https://www.pyconuk.org/talks/image-recognition-via-template-matching
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-18320@martha
+DTSTART:20150919T103000
+DTEND:20150919T110000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-77428@martha
+DTSTART:20150919T103000
+DTEND:20150919T123000
+DESCRIPTION:https://www.pyconuk.org/workshops/accelerating-scientific-code
+ -with-numba/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Accelerating Scientific Code with Numba (workshop by Graham Markal
+ l)
+URL:https://www.pyconuk.org/workshops/accelerating-scientific-code-with-nu
+ mba/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-26499@martha
+DTSTART:20150919T110000
+DTEND:20150919T113000
+DESCRIPTION:https://www.pyconuk.org/talks/5-impossible-things-before-break
+ fast/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:5 impossible things before breakfast (talk by Michael Sparks)
+URL:https://www.pyconuk.org/talks/5-impossible-things-before-breakfast/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-10016@martha
+DTSTART:20150919T110000
+DTEND:20150919T113000
+DESCRIPTION:https://www.pyconuk.org/talks/asking-about-gender-the-whats-wh
+ ys-and-hows/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Asking About Gender - the Whats\, Whys and Hows (talk by Claire Go
+ wler)
+URL:https://www.pyconuk.org/talks/asking-about-gender-the-whats-whys-and-h
+ ows/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-73963@martha
+DTSTART:20150919T110000
+DTEND:20150919T120000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Setup for Poster Session
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-17409@martha
+DTSTART:20150919T111500
+DTEND:20150919T123000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Everyone Swap: Minecraft Code Club Your code in space Internet of 
+ Toys
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-10566@martha
+DTSTART:20150919T113000
+DTEND:20150919T120000
+DESCRIPTION:https://www.pyconuk.org/talks/finding-more-bugs-with-less-work
+ /
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Finding more bugs with less work (talk by David R. MacIver)
+URL:https://www.pyconuk.org/talks/finding-more-bugs-with-less-work/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-24766@martha
+DTSTART:20150919T113000
+DTEND:20150919T120000
+DESCRIPTION:https://www.pyconuk.org/talks/why-i-have-an-unhealthy-love-of-
+ writing-tests-and-why-you-shouldnt-be-scared-about-writing-them/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Why I have an unhealthy love of tests\, and why you shouldn't be s
+ cared about writing them (talk by Gemma Hentsch)
+URL:https://www.pyconuk.org/talks/why-i-have-an-unhealthy-love-of-writing-
+ tests-and-why-you-shouldnt-be-scared-about-writing-them/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-75024@martha
+DTSTART:20150919T120000
+DTEND:20150919T140000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Lunch Events Spare Slots
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-64243@martha
+DTSTART:20150919T120000
+DTEND:20150919T140000
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Recruitment Clinic
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-32985@martha
+DTSTART:20150919T120000
+DTEND:20150919T140000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Poster Session
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-26255@martha
+DTSTART:20150919T123000
+DTEND:20150919T130000
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Py4Sci Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-3189@martha
+DTSTART:20150919T123000
+DTEND:20150919T130000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:PyKids UK Lunch (provided packed lunch including sandwich\, fruit 
+ and crisps)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-30407@martha
+DTSTART:20150919T130000
+DTEND:20150919T150000
+DESCRIPTION:https://www.pyconuk.org/workshops/scrapy-workshop/
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Scrapy Workshop Part 1 (workshop by Juan Riaza)
+URL:https://www.pyconuk.org/workshops/scrapy-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-13267@martha
+DTSTART:20150919T130000
+DTEND:20150919T150000
+DESCRIPTION:https://www.pyconuk.org/workshops/getting-started-with-testing
+ -scientific-programs/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Getting started with testing scientific programs part 1 (workshop 
+ by Martin Jones)
+URL:https://www.pyconuk.org/workshops/getting-started-with-testing-scienti
+ fic-programs/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-68363@martha
+DTSTART:20150919T130000
+DTEND:20150919T150000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Freestyle code jam
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-12814@martha
+DTSTART:20150919T140000
+DTEND:20150919T143000
+DESCRIPTION:https://www.pyconuk.org/talks/taming-a-legacy-codebase-with-mi
+ croservices/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Taming a Legacy Codebase with (Micro)services (talk by John Chandl
+ er)
+URL:https://www.pyconuk.org/talks/taming-a-legacy-codebase-with-microservi
+ ces/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-2165@martha
+DTSTART:20150919T140000
+DTEND:20150919T143000
+DESCRIPTION:https://www.pyconuk.org/talks/language-composition-with-rpytho
+ n/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Language Composition with RPython (talk by Edd Barrett)
+URL:https://www.pyconuk.org/talks/language-composition-with-rpython/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-82909@martha
+DTSTART:20150919T140000
+DTEND:20150919T150000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-83884@martha
+DTSTART:20150919T143000
+DTEND:20150919T150000
+DESCRIPTION:https://www.pyconuk.org/talks/title-to-be-determined-a-tale-of
+ -graphs-and-markov-chains/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Title To Be Determined\; A tale of graphs and Markov chains (talk 
+ by Gary Martin)
+URL:https://www.pyconuk.org/talks/title-to-be-determined-a-tale-of-graphs-
+ and-markov-chains/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-8686@martha
+DTSTART:20150919T143000
+DTEND:20150919T150000
+DESCRIPTION:https://www.pyconuk.org/talks/shipping-your-application-using-
+ conda/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Shipping your application using Conda (talk by Floris Bruynooghe)
+URL:https://www.pyconuk.org/talks/shipping-your-application-using-conda/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-97700@martha
+DTSTART:20150919T150000
+DTEND:20150919T153000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Plenary
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-46906@martha
+DTSTART:20150919T150000
+DTEND:20150919T153000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:Wrap up
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-42789@martha
+DTSTART:20150919T153000
+DTEND:20150919T160000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Lightning PyKids UK
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-81303@martha
+DTSTART:20150919T160000
+DTEND:20150919T163000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:PyCon UK Society AGM
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-61505@martha
+DTSTART:20150919T163000
+DTEND:20150919T170000
+DESCRIPTION:https://www.pyconuk.org/talks/teaching-youngsters-to-code-with
+ -pgzero-on-raspberry-pi/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Teaching youngsters to code with pgzero on Raspberry Pi (talk by T
+ im Golden)
+URL:https://www.pyconuk.org/talks/teaching-youngsters-to-code-with-pgzero-
+ on-raspberry-pi/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-95341@martha
+DTSTART:20150919T163000
+DTEND:20150919T170000
+DESCRIPTION:https://www.pyconuk.org/talks/ood-rules/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:OOD Rules (talk by Hamish Downer)
+URL:https://www.pyconuk.org/talks/ood-rules/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-77357@martha
+DTSTART:20150919T163000
+DTEND:20150919T173000
+DESCRIPTION:https://www.pyconuk.org/workshops/scrapy-workshop/
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Scrapy Workshop Part 2 (workshop by Juan Riaza)
+URL:https://www.pyconuk.org/workshops/scrapy-workshop/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-54177@martha
+DTSTART:20150919T163000
+DTEND:20150919T170000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-22597@martha
+DTSTART:20150919T163000
+DTEND:20150919T180000
+DESCRIPTION:https://www.pyconuk.org/workshops/getting-started-with-testing
+ -scientific-programs/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Getting started with testing scientific programs part 2 (workshop 
+ by Martin Jones)
+URL:https://www.pyconuk.org/workshops/getting-started-with-testing-scienti
+ fic-programs/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-30857@martha
+DTSTART:20150919T163000
+DTEND:20150919T180000
+LOCATION:Bank of America Education Track (Simulation Centre)
+SUMMARY:PyKids Organisers Tidy up
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-88651@martha
+DTSTART:20150919T170000
+DTEND:20150919T173000
+DESCRIPTION:https://www.pyconuk.org/talks/dispelling-pytest-magic/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Dispelling py.test magic (talk by Tomek Paczkowski)
+URL:https://www.pyconuk.org/talks/dispelling-pytest-magic/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-64790@martha
+DTSTART:20150919T170000
+DTEND:20150919T173000
+DESCRIPTION:https://www.pyconuk.org/talks/chromebooks-in-education-the-nex
+ t-five-years/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Chromebooks in education - the next five years (talk by Jonathan F
+ ine)
+URL:https://www.pyconuk.org/talks/chromebooks-in-education-the-next-five-y
+ ears/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-47182@martha
+DTSTART:20150919T170000
+DTEND:20150919T180000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#psf
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:PSF Reception
+URL:https://www.pyconuk.org/abstracts/#psf
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-69315@martha
+DTSTART:20150919T173000
+DTEND:20150919T180000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:PyCon Namibia
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-5216@martha
+DTSTART:20150919T173000
+DTEND:20150919T180000
+DESCRIPTION:https://www.pyconuk.org/talks/the-fabric-that-holds-the-cloud-
+ together-use-python-fabric-library-to-manage-your-openstack-environment/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:The Fabric that holds the cloud together (talk by Konstantin Benz)
+URL:https://www.pyconuk.org/talks/the-fabric-that-holds-the-cloud-together
+ -use-python-fabric-library-to-manage-your-openstack-environment/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-5974@martha
+DTSTART:20150919T173000
+DTEND:20150919T180000
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:X
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-2586@martha
+DTSTART:20150919T180000
+DTEND:20150919T191500
+DESCRIPTION:https://www.pyconuk.org/abstracts/#lightningtalks
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The Lightning Talk Show
+URL:https://www.pyconuk.org/abstracts/#lightningtalks
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-87553@martha
+DTSTART:20150919T191500
+DTEND:20150919T193000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Break
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-9388@martha
+DTSTART:20150919T193000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#dinner
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The PyCon UK Dinner (Ticket required)
+URL:https://www.pyconuk.org/abstracts/#dinner
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-24058@martha
+DTSTART:20150919T193000
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Alt Party (TBA)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-675@martha
+DTSTART:20150920T080000
+DTEND:20150920T090000
+LOCATION:Cafeteria
+SUMMARY:Breakfast
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-88685@martha
+DTSTART:20150920T090000
+DTEND:20150920T091500
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Opening Plenary
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-59622@martha
+DTSTART:20150920T091500
+DTEND:20150920T100000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Keynote: Naomi Ceder - Confessions of a True Impostor (A Survival 
+ Guide)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-20479@martha
+DTSTART:20150920T100000
+DTEND:20150920T103000
+DESCRIPTION:https://www.pyconuk.org/talks/simplicity-is-a-feature/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Simplicity Is A Feature (talk by Cory Benfield)
+URL:https://www.pyconuk.org/talks/simplicity-is-a-feature/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-42389@martha
+DTSTART:20150920T100000
+DTEND:20150920T103000
+DESCRIPTION:https://www.pyconuk.org/talks/python-and-postgresql-a-wonderfu
+ l-wedding/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Python and PostgreSQL a Wonderful Wedding (talk by Stephane Wirtel
+ )
+URL:https://www.pyconuk.org/talks/python-and-postgresql-a-wonderful-weddin
+ g/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-28672@martha
+DTSTART:20150920T100000
+DTEND:20150920T123000
+DESCRIPTION:https://www.pyconuk.org/workshops/building-async-microservices
+ /
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Building Async MicroServices (workshop by Norberto Leite)
+URL:https://www.pyconuk.org/workshops/building-async-microservices/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-41606@martha
+DTSTART:20150920T100000
+DTEND:20150920T103000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-79094@martha
+DTSTART:20150920T100000
+DTEND:20150920T103000
+DESCRIPTION:https://www.pyconuk.org/talks/tit-for-tat-evolution-game-theor
+ y-and-the-python-axelrod-library/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Tit for Tat\, Evolution\, Game Theory and the Python Axelrod Libra
+ ry (talk by Vince Knight)
+URL:https://www.pyconuk.org/talks/tit-for-tat-evolution-game-theory-and-th
+ e-python-axelrod-library/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-60752@martha
+DTSTART:20150920T103000
+DTEND:20150920T110000
+DESCRIPTION:https://www.pyconuk.org/talks/here-be-dragons-writing-safe-c-e
+ xtensions/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Here be Dragons - Writing Safe C Extensions (talk by Paul Ross)
+URL:https://www.pyconuk.org/talks/here-be-dragons-writing-safe-c-extension
+ s/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-81644@martha
+DTSTART:20150920T103000
+DTEND:20150920T110000
+DESCRIPTION:https://www.pyconuk.org/talks/python-powered-nukes/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Python powered Nukes (talk by Babak Khataee and Dan Milburn)
+URL:https://www.pyconuk.org/talks/python-powered-nukes/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-33309@martha
+DTSTART:20150920T103000
+DTEND:20150920T110000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-59028@martha
+DTSTART:20150920T103000
+DTEND:20150920T110000
+DESCRIPTION:https://www.pyconuk.org/talks/ship-data-science-products/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Ship Data Science Products! (talk by Ian Ozsvald)
+URL:https://www.pyconuk.org/talks/ship-data-science-products/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-88056@martha
+DTSTART:20150920T110000
+DTEND:20150920T113000
+DESCRIPTION:https://www.pyconuk.org/talks/how-not-to-argue-a-recipe-for-mo
+ re-productive-tech-conversations/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:How (not) to argue - a recipe for more productive tech conversatio
+ ns (talk by Harry Percival)
+URL:https://www.pyconuk.org/talks/how-not-to-argue-a-recipe-for-more-produ
+ ctive-tech-conversations/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-9915@martha
+DTSTART:20150920T110000
+DTEND:20150920T113000
+DESCRIPTION:https://www.pyconuk.org/talks/testing-applications-for-django-
+ cms/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Testing applications for django CMS (talk by Iacopo Spalletti)
+URL:https://www.pyconuk.org/talks/testing-applications-for-django-cms/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-65643@martha
+DTSTART:20150920T110000
+DTEND:20150920T113000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-61784@martha
+DTSTART:20150920T110000
+DTEND:20150920T113000
+DESCRIPTION:https://www.pyconuk.org/talks/ice-interactive-cloud-experiment
+ ation/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:iCE: Interactive cloud experimentation (talk by George Lestaris)
+URL:https://www.pyconuk.org/talks/ice-interactive-cloud-experimentation/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-57552@martha
+DTSTART:20150920T113000
+DTEND:20150920T120000
+DESCRIPTION:https://www.pyconuk.org/talks/fido-the-dog-ate-my-password/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:FIDO - The dog ate my password (talk by Alex Willmer)
+URL:https://www.pyconuk.org/talks/fido-the-dog-ate-my-password/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-29042@martha
+DTSTART:20150920T113000
+DTEND:20150920T120000
+DESCRIPTION:https://www.pyconuk.org/talks/the-ladder-to-python3/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:The Ladder to Python 3 (talk by Daniel Pope)
+URL:https://www.pyconuk.org/talks/the-ladder-to-python3/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-71602@martha
+DTSTART:20150920T113000
+DTEND:20150920T120000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-21184@martha
+DTSTART:20150920T113000
+DTEND:20150920T120000
+DESCRIPTION:https://www.pyconuk.org/talks/power-python-in-astronomy/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Power: Python in Astronomy (talk by Tomas James)
+URL:https://www.pyconuk.org/talks/power-python-in-astronomy/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-42905@martha
+DTSTART:20150920T120000
+DTEND:20150920T140000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#jobfair
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:PyCon UK Jobs Fair
+URL:https://www.pyconuk.org/abstracts/#jobfair
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-58222@martha
+DTSTART:20150920T120000
+DTEND:20150920T130000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#singleboard
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Single Board Computer HackSpace
+URL:https://www.pyconuk.org/abstracts/#singleboard
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-87544@martha
+DTSTART:20150920T120000
+DTEND:20150920T123000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-19558@martha
+DTSTART:20150920T120000
+DTEND:20150920T123000
+DESCRIPTION:https://www.pyconuk.org/talks/pythons-and-earthquakes/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Pythons and Earthquakes (talk by Girish Kumar)
+URL:https://www.pyconuk.org/talks/pythons-and-earthquakes/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-31517@martha
+DTSTART:20150920T123000
+DTEND:20150920T150000
+DESCRIPTION:https://www.pyconuk.org/workshops/event-sourced-domain-models-
+ in-python/
+LOCATION:YPlan Room (CC1.8)
+SUMMARY:Event-Sourced Domain Models in Python (workshop by Robert Smallshi
+ re)
+URL:https://www.pyconuk.org/workshops/event-sourced-domain-models-in-pytho
+ n/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-87891@martha
+DTSTART:20150920T123000
+DTEND:20150920T130000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-79514@martha
+DTSTART:20150920T123000
+DTEND:20150920T133000
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Lunch
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-25608@martha
+DTSTART:20150920T130000
+DTEND:20150920T140000
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Lunchtime Event Spare Slot
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-69251@martha
+DTSTART:20150920T130000
+DTEND:20150920T133000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-85655@martha
+DTSTART:20150920T133000
+DTEND:20150920T140000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-34357@martha
+DTSTART:20150920T133000
+DTEND:20150920T140000
+DESCRIPTION:https://www.pyconuk.org/talks/getting-meaning-from-scientific-
+ articles/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Getting meaning from scientific articles (talk by Eleonore Mayola)
+URL:https://www.pyconuk.org/talks/getting-meaning-from-scientific-articles
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-56244@martha
+DTSTART:20150920T140000
+DTEND:20150920T143000
+DESCRIPTION:https://www.pyconuk.org/talks/python-and-the-terminal-input-ou
+ tput-pipes-and-snakes/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Python and the terminal - Input\, Output\, Pipes and Snakes (talk 
+ by Tom Viner)
+URL:https://www.pyconuk.org/talks/python-and-the-terminal-input-output-pip
+ es-and-snakes/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-30954@martha
+DTSTART:20150920T140000
+DTEND:20150920T143000
+DESCRIPTION:https://www.pyconuk.org/talks/with-flexibility-comes-responsib
+ ilty-getting-schemas-around-semi-structured-data-using-avro-and-python/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Getting schemas around semi-structured data using Avro (talk by Ko
+ nark Modi)
+URL:https://www.pyconuk.org/talks/with-flexibility-comes-responsibilty-get
+ ting-schemas-around-semi-structured-data-using-avro-and-python/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-29651@martha
+DTSTART:20150920T140000
+DTEND:20150920T150000
+LOCATION:LaterPay Learning Space (Bistro)
+SUMMARY:Open Space
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-86381@martha
+DTSTART:20150920T140000
+DTEND:20150920T143000
+DESCRIPTION:https://www.pyconuk.org/demos/simple-web-services-for-scientif
+ ic-data/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Demo: Simple web services for scientific data (demo by Alys Brett\
+ , Culham Centre for Fusion Energy)
+URL:https://www.pyconuk.org/demos/simple-web-services-for-scientific-data/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-27902@martha
+DTSTART:20150920T143000
+DTEND:20150920T150000
+DESCRIPTION:https://www.pyconuk.org/talks/data-visualisation-with-python-a
+ nd-javascript-crafting-a-data-visualisation-toolchain-for-the-web/
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Data Visualisation with Python and Javascript - crafting a data-vi
+ sualisation for the web (talk by Kyran Dale)
+URL:https://www.pyconuk.org/talks/data-visualisation-with-python-and-javas
+ cript-crafting-a-data-visualisation-toolchain-for-the-web/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-92913@martha
+DTSTART:20150920T143000
+DTEND:20150920T150000
+DESCRIPTION:https://www.pyconuk.org/talks/analyse-yourselves/
+LOCATION:Osper Room (CC1.4)
+SUMMARY:Analyse Yourselves (talk by Norberto Leite)
+URL:https://www.pyconuk.org/talks/analyse-yourselves/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-20058@martha
+DTSTART:20150920T143000
+DTEND:20150920T151500
+DESCRIPTION:https://www.pyconuk.org/panels/dealing-with-publications/
+LOCATION:The Software Sustainability Institute Room (CC2.1)
+SUMMARY:Discussion: From data to dissemination - dealing with publications
+  (panel by Discussion: From data to dissemination: dealing with publicatio
+ ns)
+URL:https://www.pyconuk.org/panels/dealing-with-publications/
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-62501@martha
+DTSTART:20150920T150000
+DTEND:20150920T151500
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:Plenary
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-97326@martha
+DTSTART:20150920T151500
+DTEND:20150920T160000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#panel
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The PyCon UK Panel
+URL:https://www.pyconuk.org/abstracts/#panel
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-99137@martha
+DTSTART:20150920T160000
+DTEND:20150920T173000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#lightningtalks
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The Lightning Talk Show
+URL:https://www.pyconuk.org/abstracts/#lightningtalks
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-4861@martha
+DTSTART:20150920T173000
+DTEND:20150920T180000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#nonclosing
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The Non-Closing Closing
+URL:https://www.pyconuk.org/abstracts/#nonclosing
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-73928@martha
+DTSTART:20150920T180000
+DTEND:20150920T193000
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:End of Day
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-42636@martha
+DTSTART:20150920T193000
+DESCRIPTION:https://www.pyconuk.org/abstracts/#mellow
+LOCATION:PythonAnywhere Room (CC1.3)
+SUMMARY:The Mellow Night
+URL:https://www.pyconuk.org/abstracts/#mellow
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-80047@martha
+DTSTART:20150921T093000
+DTEND:20150921T100000
+LOCATION:Sprint Rooms
+SUMMARY:Sprint Opening
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-98672@martha
+DTSTART:20150921T100000
+DTEND:20150921T123000
+LOCATION:Sprint Rooms
+SUMMARY:Sprints are collaborative programming groups. The Sprints that hav
+ e been proposed so far are: Python for Science sprint Don't be afraid to c
+ ommit Unit test documentation improvements Axelrod - sprint/tournament - c
+ ode up strategies\, get famous Improving the Myrmidon Python game framewor
+ k py.test sprint Romaine (BDD tool) MicroPython / BBC micro:bit Pylint spr
+ int Pi In The Sky
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-2965@martha
+DTSTART:20150921T123000
+DTEND:20150921T133000
+LOCATION:Sprint Rooms
+SUMMARY:The Last Meal - we share a final meal of Fish and Chips together (
+ plus vegetarian options\, etc)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-79202@martha
+DTSTART:20150921T133000
+DTEND:20150921T160000
+LOCATION:Sprint Rooms
+SUMMARY:Sprints (Continued)
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-90766@martha
+DTSTART:20150921T160000
+DTEND:20150921T170000
+LOCATION:Sprint Rooms
+SUMMARY:Share results together
+END:VEVENT
+BEGIN:VEVENT
+UID:20150916T113005Z-20319@martha
+DTSTART:20150921T170000
+LOCATION:Sprint Rooms
+SUMMARY:End of Conference\, pack up\, see you in 2016!
+END:VEVENT
+X-WR-CALNAME:PyCon UK 2015 Schedule
+END:VCALENDAR
